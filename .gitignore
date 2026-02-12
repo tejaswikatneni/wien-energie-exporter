@@ -1,0 +1,18 @@
+# Bundler
+/.bundle
+/vendor/bundle
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Environment variables
+.env
+
+# Output files
+/output/*.csv
+
+# Temp / debugging
+/tmp
