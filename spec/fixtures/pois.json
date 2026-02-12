@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "data": [
+    {
+      "evseId": "AT*VIE*E5517",
+      "name": "öff. Wipark - Schenk-Danzinger-Gasse P1",
+      "address": "Schenk-Danzinger-Gasse 4-6",
+      "houseNumber": "",
+      "postcode": "1220",
+      "city": "Wien",
+      "coordinates": { "lat": "48.224867", "lng": "16.500918" },
+      "operatorEvseId": "VIE",
+      "chargers": [
+        { "evseId": "AT*VIE*E5517*1", "plugType": "IEC_62196_T2", "maxChargingPowerInKw": 11 },
+        { "evseId": "AT*VIE*E5517*2", "plugType": "IEC_62196_T2", "maxChargingPowerInKw": 11 },
+        { "evseId": "AT*VIE*E5517*3", "plugType": "IEC_62196_T2", "maxChargingPowerInKw": 11 },
+        { "evseId": "AT*VIE*E5517*4", "plugType": "DOMESTIC_F", "maxChargingPowerInKw": 3 },
+        { "evseId": "AT*VIE*E5517*5", "plugType": "DOMESTIC_F", "maxChargingPowerInKw": 3 },
+        { "evseId": "AT*VIE*E1220650058*1", "plugType": "IEC_62196_T2", "maxChargingPowerInKw": 11 }
+      ]
+    },
+    {
+      "evseId": "AT*SMA*EAT0903030",
+      "name": "Other Operator Station",
+      "operatorEvseId": "SMA",
+      "chargers": [
+        { "evseId": "AT*SMA*EAT0903030*001AC", "plugType": "IEC_62196_T2", "maxChargingPowerInKw": 22 }
+      ]
+    }
+  ]
+}
