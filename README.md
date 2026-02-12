@@ -57,7 +57,7 @@ The CSV contains the following columns:
 ## Installation
 
 ```bash
-git clone <repo>
+git clone https://github.com/tejaswikatneni/wien-energie-exporter.git
 cd wien-energie-exporter
 bundle install
 ```
