@@ -1,0 +1,20 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'dotenv/load'
+require_relative '../lib/wien_energie/client'
+require_relative '../lib/wien_energie/transformer'
+require_relative '../lib/wien_energie/csv_writer'
+
+nonce = ENV.fetch('WE_AJAX_NONCE') do
+  raise 'Missing WE_AJAX_NONCE env var. Example: WE_AJAX_NONCE=... bundle exec ruby bin/export_csv'
+end
+
+output_path = ARGV[0] || 'output/wien_energie_stations.csv'
+FileUtils.mkdir_p('output')
+
+raw = WienEnergie::Client.new(ajax_nonce: nonce).fetch_pois
+rows = WienEnergie::Transformer.new(raw).rows
+
+WienEnergie::CsvWriter.write(output_path, rows)
+puts "Wrote #{rows.size} rows to #{output_path}"
