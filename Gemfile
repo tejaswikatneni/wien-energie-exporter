@@ -6,9 +6,9 @@ gem 'faraday'
 gem 'faraday-retry'
 
 group :development, :test do
+  gem 'dotenv'
   gem 'rspec'
   gem 'rubocop', require: false
   gem 'rubocop-rspec', require: false
   gem 'webmock'
-  gem "dotenv"
 end
