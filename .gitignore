@@ -11,8 +11,5 @@
 # Environment variables
 .env
 
-# Output files
-/output/*.csv
-
 # Temp / debugging
 /tmp
