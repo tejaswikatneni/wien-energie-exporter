@@ -2,7 +2,7 @@
 
 This project fetches Wien Energie charging station data from their public website API and exports it into a normalized CSV file.
 
-It was implemented as part of a coding challenge and demonstrates:
+It demonstrates:
 
 * HTTP integration
 * data transformation
