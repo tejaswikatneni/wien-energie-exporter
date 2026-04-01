@@ -268,8 +268,6 @@ Franklinstraße,"Franklinstraße 47, 1210 Wien",16.406658,48.253217,VNA,type2,11
 Franklinstraße,"Franklinstraße 47, 1210 Wien",16.406658,48.253217,VNA,type2,11
 Bubergasse,"Bubergasse 2, 1210 Wien",16.451226,48.270225,VNA,type2,11
 Bubergasse,"Bubergasse 2, 1210 Wien",16.451226,48.270225,VNA,type2,11
-Gerstlgasse,"Gerstlgasse 31, 1210 Wien",16.3913,48.266372,VNA,type2,11
-Gerstlgasse,"Gerstlgasse 31, 1210 Wien",16.3913,48.266372,VNA,type2,11
 Andreas-Hofer-Straße,"Andreas-Hofer-Straße 19, 1210 Wien",16.411069,48.257529,VNA,type2,11
 Andreas-Hofer-Straße,"Andreas-Hofer-Straße 19, 1210 Wien",16.411069,48.257529,VNA,type2,11
 Stubenring,"Stubenring 1, 1010 Wien",16.382994,48.21037,VNA,type2,11
@@ -419,14 +417,6 @@ Dopschstraße ggü. 22,"Dopschstraße ggü. 22, 1210 Wien",16.441149,48.269686,V
 Dopschstraße ggü. 22,"Dopschstraße ggü. 22, 1210 Wien",16.441149,48.269686,VNA,type2,11
 APCOA Welthandelsplatz,"Trabrennstraße 1, 1020 Wien",16.411435,48.212384,VIE,type2,11
 APCOA Welthandelsplatz,"Trabrennstraße 1, 1020 Wien",16.411435,48.212384,VIE,type2,11
-Austria-Center-Vienna - Parkdeck -2,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,type2,11
-Austria-Center-Vienna - Parkdeck -2,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,type2,11
-Austria-Center-Vienna - Parkdeck -2,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,type2,11
-Austria-Center-Vienna - Parkdeck -2,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,type2,11
-Austria-Center-Vienna - Parkdeck -2,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,type2,11
-Austria-Center-Vienna - Parkdeck -2,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,type2,11
-Austria-Center-Vienna - Parkdeck -2,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,type2,11
-Austria-Center-Vienna - Parkdeck -2,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,type2,11
 Austria-Center-Vienna - Parkdeck -2 Fast,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,ccs,50
 Austria-Center-Vienna - Parkdeck -2 Fast,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,chademo,50
 Austria-Center-Vienna - Parkdeck -2 Fast,"Bruno-Kreisky-Platz 1, 1220 Wien",16.415424,48.234435,VIE,type2,43
@@ -693,6 +683,13 @@ Wien Energie Spittelau,"Spittelauer Lände 45, 1090 Wien",16.360443,48.232719,VI
 öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,type2,11
 öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,other,3
 öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,other,3
+öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,type2,11
+öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,type2,11
+öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,type2,11
+öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,type2,11
+öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,type2,11
+öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,type2,11
+öff. BIP - Rudolfinerhaus,"Billrothstraße 78, 1190 Wien",16.348016,48.24321,VIE,type2,11
 BOKU Garage Muthgasse,"Muthgasse 18, 1190 Wien",16.367246,48.246828,VIE,type2,11
 BOKU Garage Muthgasse,"Muthgasse 18, 1190 Wien",16.367246,48.246828,VIE,type2,11
 BOKU Garage Muthgasse,"Muthgasse 18, 1190 Wien",16.367246,48.246828,VIE,other,3
@@ -825,8 +822,6 @@ Manhattan Parking Garage,"Heiligenstädter Lände 13, 1190 Wien",16.361776,48.23
 Manhattan Parking Garage,"Heiligenstädter Lände 13, 1190 Wien",16.361776,48.238451,VIE,type2,43
 Manhattan Parking Garage,"Heiligenstädter Lände 13, 1190 Wien",16.361776,48.238451,VIE,ccs,50
 Manhattan Parking Garage,"Heiligenstädter Lände 13, 1190 Wien",16.361776,48.238451,VIE,ccs,50
-Musilplatz,"Musilplatz 15, 1160 Wien",16.307615,48.216462,VNA,type2,11
-Musilplatz,"Musilplatz 15, 1160 Wien",16.307615,48.216462,VNA,type2,11
 Kratzlgasse,"Kratzlgasse 2, 1190 Wien",16.330299,48.241822,VNA,type2,11
 Kratzlgasse,"Kratzlgasse 2, 1190 Wien",16.330299,48.241822,VNA,type2,11
 Lazarettgasse,"Lazarettgasse 27, 1090 Wien",16.34667,48.21743,VNA,type2,11
@@ -869,8 +864,8 @@ Grinzinger Straße,"Grinzinger Straße 85, 1190 Wien",16.355745,48.253997,VNA,ty
 Grinzinger Straße,"Grinzinger Straße 85, 1190 Wien",16.355745,48.253997,VNA,type2,11
 Krottenbachstraße 185,"Krottenbachstraße 185, 1190 Wien",16.320156,48.24385,VNA,type2,11
 Krottenbachstraße 185,"Krottenbachstraße 185, 1190 Wien",16.320156,48.24385,VNA,type2,11
-Muthgasse,"Muthgasse 26, 1190 Wien",16.36792,48.248536,VNA,type2,11
-Muthgasse,"Muthgasse 26, 1190 Wien",16.36792,48.248536,VNA,type2,11
+Muthgasse,"Muthgasse 26, 1190 Wien",16.368309,48.248573,VNA,type2,11
+Muthgasse,"Muthgasse 26, 1190 Wien",16.368309,48.248573,VNA,type2,11
 Nedergasse,"Nedergasse 2-4, 1190 Wien",16.339984,48.23797,VNA,type2,11
 Nedergasse,"Nedergasse 2-4, 1190 Wien",16.339984,48.23797,VNA,type2,11
 Sieveringer Straße Station 1,"Sieveringer Straße 175, 1190 Wien",16.321467,48.251854,VNA,type2,11
@@ -1029,16 +1024,16 @@ Stadtplatz16,"Stadtplatz 16, 3400 Klosterneuburg",16.324004,48.310022,VIE,type2,
 öff. Wipark - Freyung 1.UG,"Freyung 5, 1010 Wien",16.364404,48.211837,VIE,type2,11
 Rötzergasse 24,"Rötzergasse 24, 1170 Wien",16.331227,48.219624,VNA,type2,11
 Rötzergasse 24,"Rötzergasse 24, 1170 Wien",16.331227,48.219624,VNA,type2,11
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
-HPC Hub Währinger Gürtel 1-7,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,chademo,75
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,ccs,150
+HPC HUB Währinger Gürtel,"U-Bahn-Bogen 92, 1090 Wien",16.342028,48.217495,VIE,chademo,75
 öff. BIP Otto Wagnerplatz,"Otto-Wagner-Platz 1, 1090 Wien",16.355151,48.214972,VIE,type2,11
 öff. BIP Otto Wagnerplatz,"Otto-Wagner-Platz 1, 1090 Wien",16.355151,48.214972,VIE,type2,11
 3400 Anton-Bruckner-G.2-4,"Anton-Bruckner-G. 2-4, 3400 Klosterneuburg",16.328165,48.294765,VIE,type2,11
@@ -1056,6 +1051,11 @@ In der Au P&R,"in der Au 2, 3400 Klosterneuburg",16.327937,48.310001,VIE,type2,1
 In der Au P&R,"in der Au 2, 3400 Klosterneuburg",16.327937,48.310001,VIE,type2,11
 In der Au P&R,"in der Au 2, 3400 Klosterneuburg",16.327937,48.310001,VIE,type2,11
 In der Au P&R,"in der Au 2, 3400 Klosterneuburg",16.327937,48.310001,VIE,type2,11
+Döblinger Hauptstr.78,"Döblinger Hauptstr. 78, 1190 Wien",16.35554,48.240862,VIE,type2,11
+Döblinger Hauptstr.78,"Döblinger Hauptstr. 78, 1190 Wien",16.35554,48.240862,VIE,type2,11
+Döblinger Hauptstr.78,"Döblinger Hauptstr. 78, 1190 Wien",16.35554,48.240862,VIE,type2,11
+Döblinger Hauptstr.78,"Döblinger Hauptstr. 78, 1190 Wien",16.35554,48.240862,VIE,type2,11
+Döblinger Hauptstr.78,"Döblinger Hauptstr. 78, 1190 Wien",16.35554,48.240862,VIE,type2,11
 öff. Wipark - Dornerplatz,"Dornerplatz 1, 1170 Wien",16.33404,48.220932,VIE,type2,11
 öff. Wipark - Dornerplatz,"Dornerplatz 1, 1170 Wien",16.33404,48.220932,VIE,type2,11
 öff. Wipark - Dornerplatz,"Dornerplatz 1, 1170 Wien",16.33404,48.220932,VIE,type2,11
@@ -1080,8 +1080,8 @@ Schlickplatz 3,"Schlickplatz  3, 1090 Wien",16.364676,48.217108,VIE,type2,11
 Schlickplatz 3,"Schlickplatz  3, 1090 Wien",16.364676,48.217108,VIE,type2,11
 Czartoryskigasse 42,"Czartoryskigasse  42, 1180 Wien",16.323271,48.229084,VIE,type2,11
 Czartoryskigasse 42,"Czartoryskigasse  42, 1180 Wien",16.323271,48.229084,VIE,type2,11
-Messerschmidtgasse,"Messerschmidtgasse 45, 1180 Wien",16.323771,48.326892,VIE,type2,11
-Messerschmidtgasse,"Messerschmidtgasse 45, 1180 Wien",16.323771,48.326892,VIE,type2,11
+Messerschmidtgasse,"Messerschmidtgasse 45, 1180 Wien",16.323715,48.23686,VIE,type2,11
+Messerschmidtgasse,"Messerschmidtgasse 45, 1180 Wien",16.323715,48.23686,VIE,type2,11
 Pötzleinsdorfer Höhe 41,"Pötzleinsdorfer Höhe  41, 1180 Wien",16.297957,48.24672,VIE,type2,11
 Pötzleinsdorfer Höhe 41,"Pötzleinsdorfer Höhe  41, 1180 Wien",16.297957,48.24672,VIE,type2,11
 Schulgasse 53,"Schulgasse  53, 1180 Wien",16.339676,48.225337,VIE,type2,11
@@ -1140,10 +1140,6 @@ Spar Schwechat,"Möhringgasse 4, 2320 Schwechat",16.481442,48.141168,VIE,type2,1
 Spar Schwechat,"Möhringgasse 4, 2320 Schwechat",16.481442,48.141168,VIE,type2,11
 Spar Schwechat,"Möhringgasse 4, 2320 Schwechat",16.481442,48.141168,VIE,other,3
 Spar Schwechat,"Möhringgasse 4, 2320 Schwechat",16.481442,48.141168,VIE,other,3
-LGV Frischgemüse Haidestraße,"Haidestraße 22, 1110 Wien",16.438124,48.175809,VIE,type2,11
-LGV Frischgemüse Haidestraße,"Haidestraße 22, 1110 Wien",16.438124,48.175809,VIE,type2,11
-LGV Frischgemüse Haidestraße,"Haidestraße 22, 1110 Wien",16.438124,48.175809,VIE,type2,11
-LGV Frischgemüse Haidestraße,"Haidestraße 22, 1110 Wien",16.438124,48.175809,VIE,other,3
 BOE Garage Cobdengasse,"Cobdengasse 2, 1010 Wien",16.378391,48.206454,VIE,type2,11
 BOE Garage Cobdengasse,"Cobdengasse 2, 1010 Wien",16.378391,48.206454,VIE,type2,11
 BOE Garage Cobdengasse,"Cobdengasse 2, 1010 Wien",16.378391,48.206454,VIE,other,3
@@ -1173,8 +1169,6 @@ Reumannplatz,"Quellenstraße 101, 1100 Wien",16.379832,48.175182,VNA,type2,11
 Reumannplatz,"Quellenstraße 101, 1100 Wien",16.379832,48.175182,VNA,type2,11
 Januariskapelle,"Ungargasse 69, 1030 Wien",16.387015,48.196267,VNA,type2,11
 Januariskapelle,"Ungargasse 69, 1030 Wien",16.387015,48.196267,VNA,type2,11
-Landstraße Hauptstraße 119,"Landstraßer Hauptstraße 119, 1030 Wien",16.396377,48.196149,VNA,type2,11
-Landstraße Hauptstraße 119,"Landstraßer Hauptstraße 119, 1030 Wien",16.396377,48.196149,VNA,type2,11
 Rotundenbrücke,"Rasumofskygasse 3-5, 1030 Wien",16.395074,48.205853,VNA,type2,11
 Rotundenbrücke,"Rasumofskygasse 3-5, 1030 Wien",16.395074,48.205853,VNA,type2,11
 Rochusmarkt,"Landstraßer Hauptstraße 50, 1030 Wien",16.390149,48.202746,VNA,type2,11
@@ -1191,8 +1185,8 @@ Gasometer,"Guglgasse 11, 1110 Wien",16.421004,48.185267,VNA,type2,11
 Gasometer,"Guglgasse 11, 1110 Wien",16.421004,48.185267,VNA,type2,11
 Geiselbergstraße,"Geiselbergstraße vor 50, 1110 Wien",16.407689,48.174601,VNA,type2,11
 Geiselbergstraße,"Geiselbergstraße vor 50, 1110 Wien",16.407689,48.174601,VNA,type2,11
-Zippererstraße,"Simmeringer Hauptstraße vor 47-49, 1110 Wien",16.41078,48.179586,VNA,type2,11
-Zippererstraße,"Simmeringer Hauptstraße vor 47-49, 1110 Wien",16.41078,48.179586,VNA,type2,11
+Zippererstraße,"Simmeringer Hauptstraße 57, 1110 Wien",16.411419,48.179043,VNA,type2,11
+Zippererstraße,"Simmeringer Hauptstraße 57, 1110 Wien",16.411419,48.179043,VNA,type2,11
 Zentralfriedhof 2. Tor,"Simmeringer Hauptstraße vor 236, 1110 Wien",16.442517,48.154213,VNA,type2,11
 Zentralfriedhof 2. Tor,"Simmeringer Hauptstraße vor 236, 1110 Wien",16.442517,48.154213,VNA,type2,11
 Svetelskystraße,"Svetelskystraße vor 6, 1110 Wien",16.461083,48.154739,VNA,type2,11
@@ -1247,8 +1241,6 @@ Kolonitzplatz,"Kolonitzplatz 3, 1030 Wien",16.391566,48.209014,VNA,type2,11
 Kolonitzplatz,"Kolonitzplatz 3, 1030 Wien",16.391566,48.209014,VNA,type2,11
 Apostelgasse,"Apostelgasse 11, 1030 Wien",16.397312,48.199359,VNA,type2,11
 Apostelgasse,"Apostelgasse 11, 1030 Wien",16.397312,48.199359,VNA,type2,11
-Fasangasse,"Fasangasse 27, 1030 Wien",16.385962,48.191845,VNA,type2,11
-Fasangasse,"Fasangasse 27, 1030 Wien",16.385962,48.191845,VNA,type2,11
 Kardinal-Nagl-Platz,"Kardinal-Nagl-Platz 16, 1030 Wien",16.402113,48.197489,VNA,type2,11
 Kardinal-Nagl-Platz,"Kardinal-Nagl-Platz 16, 1030 Wien",16.402113,48.197489,VNA,type2,11
 Paulusplatz,"Paulusplatz 3a, 1030 Wien",16.401611,48.193015,VNA,type2,11
@@ -1509,12 +1501,12 @@ Biberhaufenweg 100 vor Stiege 28,"Biberhaufenweg 100/28, 1220 Wien",16.477019,48
 Biberhaufenweg 100 vor Stiege 28,"Biberhaufenweg 100/28, 1220 Wien",16.477019,48.207732,VNA,type2,11
 "Gramatneusiedl, Lindenallee 1A","Lindenallee 1A, 2440 Gramatneusiedl",16.492602,48.024596,VIE,type2,11
 "Gramatneusiedl, Lindenallee 1A","Lindenallee 1A, 2440 Gramatneusiedl",16.492602,48.024596,VIE,type2,11
-HPC HUB - Erdbergstraße 182,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
-HPC HUB - Erdbergstraße 182,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
-HPC HUB - Erdbergstraße 182,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
-HPC HUB - Erdbergstraße 182,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
-HPC HUB - Erdbergstraße 182,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
-HPC HUB - Erdbergstraße 182,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
+HPC HUB Erdbergstraße,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
+HPC HUB Erdbergstraße,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
+HPC HUB Erdbergstraße,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
+HPC HUB Erdbergstraße,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
+HPC HUB Erdbergstraße,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
+HPC HUB Erdbergstraße,"Erdbergstraße  182, 1030 Wien",16.409661,48.19334,VIE,ccs,400
 Gemeinde Schwechat Rathausplatz 8A,"Rathausplatz  8A/1, 2320 Schwechat",16.474464,48.139865,VIE,type2,11
 Gemeinde Schwechat Rathausplatz 8A,"Rathausplatz  8A/1, 2320 Schwechat",16.474464,48.139865,VIE,type2,11
 "AWS Schwadorf , Industriestraße 2","Industriestraße 2, 2432 Schwadorf",16.590793,48.076832,VIE,type2,11
@@ -1546,22 +1538,22 @@ Mannswörther Straße 57,"Mannswörther Straße  57, 2320 Schwechat",16.511905,4
 "Oberhausen,. F. Sonnleithner-Gasse 22","F. Sonnleithner-Gasse 22, 2301 Oberhausen",16.580606,48.184727,VIE,ccs,200
 2326 Lanzendorf / Lindengasse 15 / Parkplatz,"Lindengasse  15, 2326 Lanzendorf",16.445738,48.110685,VIE,type2,11
 2326 Lanzendorf / Lindengasse 15 / Parkplatz,"Lindengasse  15, 2326 Lanzendorf",16.445738,48.110685,VIE,type2,11
-HPC HUB- Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
-HPC HUB- Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
-HPC HUB- Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
-HPC HUB- Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
-HPC HUB- Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
-HPC HUB- Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
-HPC HUB- Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
-HPC HUB- Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
-HPC HUB- Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
-HPC HUB- Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
-HPC HUB- Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
-HPC HUB- Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
-HPC HUB- Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
-HPC HUB- Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
-HPC HUB- Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
-HPC HUB- Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
+HPC HUB Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
+HPC HUB Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
+HPC HUB Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
+HPC HUB Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
+HPC HUB Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
+HPC HUB Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
+HPC HUB Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
+HPC HUB Simmeringer Hauptstraße,"Simmeringer Hauptstraße  337, 1110 Wien",16.441341,48.15558,VIE,ccs,400
+HPC HUB Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
+HPC HUB Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
+HPC HUB Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
+HPC HUB Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
+HPC HUB Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
+HPC HUB Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
+HPC HUB Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
+HPC HUB Erdberger Lände,"Erdberger Lände 26, 1030 Wien",16.40032,48.202156,VIE,ccs,400
 öff. Wipark - Parkring,"Parkring 12A, 1010 Wien",16.376588,48.205391,VIE,type2,11
 öff. Wipark - Parkring,"Parkring 12A, 1010 Wien",16.376588,48.205391,VIE,type2,11
 öff. Wipark - Parkring,"Parkring 12A, 1010 Wien",16.376588,48.205391,VIE,type2,11
@@ -1597,6 +1589,10 @@ Viehmarktgasse 2B,"Viehmarktgasse 2B, 1030 Wien",16.402987,48.189544,VIE,type2,1
 Viehmarktgasse 2B,"Viehmarktgasse 2B, 1030 Wien",16.402987,48.189544,VIE,type2,11
 Maria-Lanzendorfer Straße gegü. 7C,"Maria-Lanzendorfer Straße gegü. 7C, 2333 Leopoldsdorf",16.401754,48.105024,VIE,type2,11
 Maria-Lanzendorfer Straße gegü. 7C,"Maria-Lanzendorfer Straße gegü. 7C, 2333 Leopoldsdorf",16.401754,48.105024,VIE,type2,11
+Brucker Straße,"Brucker Straße 14, 2432 Schwadorf",16.587192,48.068511,VIE,ccs,50
+Brucker Straße,"Brucker Straße 14, 2432 Schwadorf",16.587192,48.068511,VIE,ccs,50
+Brucker Straße,"Brucker Straße 14, 2432 Schwadorf",16.587192,48.068511,VIE,ccs,150
+Brucker Straße,"Brucker Straße 14, 2432 Schwadorf",16.587192,48.068511,VIE,ccs,150
 Österreichs Energie Brahmsplatz,"Brahmsplatz 3, 1040 Wien",16.368847,48.193429,VNA,type2,11
 Österreichs Energie Brahmsplatz,"Brahmsplatz 3, 1040 Wien",16.368847,48.193429,VNA,type2,11
 öff. Wipark - Westbahnhof,"Felberstraße 1, 1150 Wien",16.335987,48.197448,VIE,type2,11
@@ -1714,8 +1710,6 @@ Burgtheater,"Josef-Meinrad-Platz 1, 1010 Wien",16.361544,48.209473,VNA,type2,11
 Burgtheater,"Josef-Meinrad-Platz 1, 1010 Wien",16.361544,48.209473,VNA,type2,11
 Lerchenfelder Straße 78-80,"Lerchenfelder Straße vor 78-80, 1080 Wien",16.345863,48.207104,VNA,type2,11
 Lerchenfelder Straße 78-80,"Lerchenfelder Straße vor 78-80, 1080 Wien",16.345863,48.207104,VNA,type2,11
-Weghuberpark,"Lerchenfelder Straße vor 4, 1080 Wien",16.354329,48.206741,VNA,type2,11
-Weghuberpark,"Lerchenfelder Straße vor 4, 1080 Wien",16.354329,48.206741,VNA,type2,11
 Wiedner Hauptstraße vor 48,"Wiedner Hauptstraße vor 48, 1040 Wien",16.366891,48.193082,VNA,type2,11
 Wiedner Hauptstraße vor 48,"Wiedner Hauptstraße vor 48, 1040 Wien",16.366891,48.193082,VNA,type2,11
 Faulmanngasse,"Faulmanngasse vor 4, 1040 Wien",16.365546,48.19874,VNA,type2,11
@@ -1770,8 +1764,6 @@ Badhausgasse,"Badhausgasse 11, 1070 Wien",16.343727,48.207354,VNA,type2,11
 Badhausgasse,"Badhausgasse 11, 1070 Wien",16.343727,48.207354,VNA,type2,11
 Bandgasse Station 1,"Bandgasse 45, 1070 Wien",16.345968,48.204167,VNA,type2,11
 Bandgasse Station 1,"Bandgasse 45, 1070 Wien",16.345968,48.204167,VNA,type2,11
-Burggasse,"Burggasse 33, 1070 Wien",16.352599,48.20409,VNA,type2,11
-Burggasse,"Burggasse 33, 1070 Wien",16.352599,48.20409,VNA,type2,11
 Neustiftgasse Station 1,"Neustiftgasse 123, 1070 Wien",16.341684,48.205819,VNA,type2,11
 Neustiftgasse Station 1,"Neustiftgasse 123, 1070 Wien",16.341684,48.205819,VNA,type2,11
 Schottenfeldgasse Station 1,"Schottenfeldgasse 31, 1070 Wien",16.343442,48.199903,VNA,type2,11
@@ -1855,6 +1847,8 @@ Mollardgasse,"Mollardgasse 78, 1060 Wien",16.340591,48.189601,VNA,type2,11
 Mollardgasse,"Mollardgasse 78, 1060 Wien",16.340591,48.189601,VNA,type2,11
 Mariahilfer Gürtel,"Mariahilfer Gürtel 32, 1060 Wien",16.340162,48.194819,VNA,type2,11
 Mariahilfer Gürtel,"Mariahilfer Gürtel 32, 1060 Wien",16.340162,48.194819,VNA,type2,11
+Fillgradergasse,"Fillgradergasse 6, 1060 Wien",16.359592,48.199849,VNA,type2,11
+Fillgradergasse,"Fillgradergasse 6, 1060 Wien",16.359592,48.199849,VNA,type2,11
 Esterhazygasse,"Esterhazygasse 1, 1060 Wien",16.353809,48.194199,VNA,type2,11
 Esterhazygasse,"Esterhazygasse 1, 1060 Wien",16.353809,48.194199,VNA,type2,11
 Weinzierlgasse,"Weinzierlgasse 12, 1140 Wien",16.293798,48.191684,VNA,type2,11
@@ -2074,6 +2068,8 @@ Margaretenstraße Station 3,"Margaretenstraße 52, 1040 Wien",16.362166,48.19432
 Margaretenstraße Station 3,"Margaretenstraße 52, 1040 Wien",16.362166,48.194325,VNA,type2,11
 Zelda Kaplan Weg 5 Außenanlage PP1,"Zelda Kaplan Weg 5, 1100 Wien",16.349746,48.165864,VIE,type2,22
 Zelda Kaplan Weg 5 Außenanlage PP1,"Zelda Kaplan Weg 5, 1100 Wien",16.349746,48.165864,VIE,type2,11
+Hermesstraße,"Hermesstraße 2, 1130 Wien",16.273605,48.166736,VNA,type2,11
+Hermesstraße,"Hermesstraße 2, 1130 Wien",16.273605,48.166736,VNA,type2,11
 öff. Wipark - P&R Siebenhirten,"Porschestraße 25, 1230 Wien",16.310478,48.129412,VIE,type2,11
 öff. Wipark - P&R Siebenhirten,"Porschestraße 25, 1230 Wien",16.310478,48.129412,VIE,type2,3
 öff. Wipark - P&R Siebenhirten,"Porschestraße 25, 1230 Wien",16.310478,48.129412,VIE,type2,3
@@ -2092,8 +2088,8 @@ Hyrtlgasse,"Hyrtlgasse 22, 1160 Wien",16.326263,48.207607,VNA,type2,11
 Hyrtlgasse,"Hyrtlgasse 22, 1160 Wien",16.326263,48.207607,VNA,type2,11
 Herbststraße Station 2,"Herbststraße 80-84, 1160 Wien",16.32232,48.207331,VNA,type2,11
 Herbststraße Station 2,"Herbststraße 80-84, 1160 Wien",16.32232,48.207331,VNA,type2,11
-Herbststraße Station 1,"Herbststraße 39, 1160 Wien",16.32622,48.206026,VNA,type2,11
-Herbststraße Station 1,"Herbststraße 39, 1160 Wien",16.32622,48.206026,VNA,type2,11
+Herbststraße Station 1,"Herbststraße 39, 1160 Wien",16.328472,48.206102,VNA,type2,11
+Herbststraße Station 1,"Herbststraße 39, 1160 Wien",16.328472,48.206102,VNA,type2,11
 Fröbelgasse 56,"Fröbelgasse 56, 1160 Wien",16.332239,48.209967,VNA,type2,11
 Fröbelgasse 56,"Fröbelgasse 56, 1160 Wien",16.332239,48.209967,VNA,type2,11
 Zagorskigasse,"Zagorskigasse 20-22, 1160 Wien",16.316007,48.209191,VNA,type2,11
@@ -2166,16 +2162,16 @@ Parkstraße 51,"Parkstraße 51, 2351 Wiener Neudorf",16.318226,48.083376,VIE,typ
 Parkstraße 51,"Parkstraße 51, 2351 Wiener Neudorf",16.318226,48.083376,VIE,type2,11
 SCS Multiplex Eingang 1,"Multiplex Eingang 1, 2351 Wiener Neudorf",16.318788,48.103055,VIE,ccs,100
 SCS Multiplex Eingang 1,"Multiplex Eingang 1, 2351 Wiener Neudorf",16.318788,48.103055,VIE,ccs,100
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
-HPC Hub Margaretengürtel 74b,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,chademo,100
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,ccs,150
+HPC HUB Margaretengürtel,"Margaretengürtel  74b, 1050 Wien",16.35193,48.180143,VIE,chademo,100
 Schönbrunner Schloß Str.,"Schönbrunner Schloßstrasse 2-12, 1120 Wien",16.326017,48.183313,VIE,type2,11
 Schönbrunner Schloß Str.,"Schönbrunner Schloßstrasse 2-12, 1120 Wien",16.326017,48.183313,VIE,type2,11
 Schönbrunner Schloß Str.,"Schönbrunner Schloßstrasse 2-12, 1120 Wien",16.326017,48.183313,VIE,type2,11
@@ -2423,6 +2419,10 @@ HPC HUB Brunner Straße,"Brunner Straße 71, 1230 Wien",16.298319,48.137993,VIE,
 HPC HUB Brunner Straße,"Brunner Straße 71, 1230 Wien",16.298319,48.137993,VIE,ccs,400
 HPC HUB Brunner Straße,"Brunner Straße 71, 1230 Wien",16.298319,48.137993,VIE,ccs,400
 HPC HUB Brunner Straße,"Brunner Straße 71, 1230 Wien",16.298319,48.137993,VIE,ccs,400
+Mödlingerstraße,"Mödlingerstraße 15, 2353 Guntramsdorf",16.310741,48.051594,VIE,ccs,50
+Mödlingerstraße,"Mödlingerstraße 15, 2353 Guntramsdorf",16.310741,48.051594,VIE,ccs,50
+Mödlingerstraße,"Mödlingerstraße 15, 2353 Guntramsdorf",16.310741,48.051594,VIE,ccs,50
+Mödlingerstraße,"Mödlingerstraße 15, 2353 Guntramsdorf",16.310741,48.051594,VIE,ccs,50
 Anzbachgasse 3,"Anzbachgasse  3, 1140 Wien",16.251777,48.207395,VIE,type2,11
 Anzbachgasse 3,"Anzbachgasse  3, 1140 Wien",16.251777,48.207395,VIE,type2,11
 Samptwandnergasse 2,"Samptwandnergasse  2, 1140 Wien",16.245232,48.203579,VIE,type2,11
@@ -2470,8 +2470,8 @@ Blumen B&B,"Portugieserstrasse 1, 2544 Leobersdorf",16.200294,47.932114,VIE,ccs,
 Blumen B&B,"Portugieserstrasse 1, 2544 Leobersdorf",16.200294,47.932114,VIE,ccs,150
 Spar Pottendorf,"Bahnstraße 5, 2486 Pottendorf",16.387859,47.908571,VIE,ccs,150
 Spar Pottendorf,"Bahnstraße 5, 2486 Pottendorf",16.387859,47.908571,VIE,ccs,150
-Schloßplatz 5,"Schloßplatz 5, 2540 Bad Vöslau",16.212916,47.965413,VIE,ccs,20
-Schloßplatz 5,"Schloßplatz 5, 2540 Bad Vöslau",16.212916,47.965413,VIE,ccs,20
+Schloßplatz 5,"Schloßplatz 5, 2540 Bad Vöslau",16.212916,47.965413,VIE,ccs,50
+Schloßplatz 5,"Schloßplatz 5, 2540 Bad Vöslau",16.212916,47.965413,VIE,ccs,50
 Leopold Klimesch Straße,"Leopold Klimesch Straße 24, 2512 Traiskirchen",16.293966,47.986557,VIE,type2,11
 Leopold Klimesch Straße,"Leopold Klimesch Straße 24, 2512 Traiskirchen",16.293966,47.986557,VIE,type2,11
 Wiener Straße 29c,"Wiener Straße 29c, 2483 Ebreichsdorf",16.398038,47.971118,VIE,type2,11
