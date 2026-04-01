@@ -66,28 +66,12 @@ bundle install
 
 ## Usage
 
-The endpoint requires a short-lived `_ajax_nonce`.
+The exporter automatically fetches a fresh `_ajax_nonce` from the public Ladestations-Finder page before requesting POI data.
 
-### 1. Get nonce from browser
-
-Open browser DevTools → Network → find request to:
-
-```
-admin-ajax.php
-```
-
-Copy the value of:
-
-```
-_ajax_nonce
-```
-
----
-
-### 2. Run exporter
+### Run exporter
 
 ```bash
-WE_AJAX_NONCE=YOUR_NONCE bundle exec ruby bin/export_csv
+bundle exec ruby bin/export_csv
 ```
 
 Output:
@@ -168,7 +152,7 @@ For production integrations this is preferred over raw Net::HTTP.
 
 ---
 
-### Why environment variable for nonce?
+### Why automatic nonce retrieval?
 
 The nonce is:
 
@@ -176,9 +160,7 @@ The nonce is:
 * session dependent
 * dynamically generated
 
-For this challenge it is supplied via environment variable.
-
-In production the exporter would first fetch the page and extract the nonce automatically.
+The exporter first fetches the page payload, extracts the current nonce, and then calls the AJAX endpoint with that value.
 
 ---
 

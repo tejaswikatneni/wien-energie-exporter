@@ -30,8 +30,8 @@ module WienEnergie
     def build_rows_for_station(station, seen_charger_ids)
       base = base_row(station)
       chargers = station.fetch('chargers', [])
-
       chargers.each_with_object([]) do |charger, arr|
+
         next if duplicate_charger?(charger, seen_charger_ids)
 
         arr << base.merge(
