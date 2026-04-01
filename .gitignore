@@ -13,3 +13,4 @@
 
 # Temp / debugging
 /tmp
+.byebug_history
